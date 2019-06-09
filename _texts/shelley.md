@@ -1,3 +1,10 @@
+---
+layout: narrative
+title: Frankenstein; or The Modern Prometheus
+author: Mary Wollstonecraft Shelley
+publication-date: 1818
+source: https://www.gutenberg.org/ebooks/41445
+---
 
 Frankenstein; or The Modern Prometheus. In Three Volumes.
 
