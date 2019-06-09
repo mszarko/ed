@@ -6,6 +6,8 @@ publication-date: 1818
 source: https://www.gutenberg.org/ebooks/41445
 ---
 
+![Portrait of Mary Shelley 1820 by By Reginald Easton[3] (born 1807, died 1893) - http://www.mollydwyer.com/html/mary.html, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4251857](/assets/MaryShelleyEaston3.jpg)
+
 # Frankenstein; or The Modern Prometheus. In Three Volumes.
 
 
@@ -34,7 +36,7 @@ THE AUTHOR.
 
 [Page ] 
 
-PREFACE.
+**PREFACE.**
 
 The event on which this fiction is founded has been supposed, by Dr. Darwin, and some of the physiological writers of Germany, as not of impossible occurrence. I shall not be supposed as according the remotest degree of serious faith to such an imagination; yet, in assuming it as the basis of a work of fancy, I have not considered myself as merely weaving a series of supernatural terrors. The event on 
 
@@ -42,11 +44,11 @@ The event on which this fiction is founded has been supposed, by Dr. Darwin, and
 
 which the interest of the story depends is exempt from the disadvantages of a mere tale of spectres or enchantment. It was recommended by the novelty of the situations which it developes; and, however impossible as a physical fact, affords a point of view to the imagination for the delineating of human passions more comprehensive and commanding than any which the ordinary relations of existing events can yield.
 
-I have thus endeavoured to preserve the truth of the elementary principles of human nature, while I have not scrupled to innovate upon their combinations. The Iliad , the tragic poetry of Greece,---Shakespeare, in the Tempest and Mid summer 
+I have thus endeavoured to preserve the truth of the elementary principles of human nature, while I have not scrupled to innovate upon their combinations. *The Iliad*, the tragic poetry of Greece,---Shakespeare, in the *Tempest* and *Mid summer* 
 
 [Page ix ] 
 
-Night's Dream ,---and most especially Milton, in Paradise Lost , conform to this rule; and the most humble novelist, who seeks to confer or receive amusement from his labours, may, without presumption, apply to prose fiction a licence, or rather a rule, from the adoption of which so many exquisite combinations of human feeling have resulted in the highest specimens of poetry.
+*Night's Dream* ,---and most especially Milton, in Paradise Lost , conform to this rule; and the most humble novelist, who seeks to confer or receive amusement from his labours, may, without presumption, apply to prose fiction a licence, or rather a rule, from the adoption of which so many exquisite combinations of human feeling have resulted in the highest specimens of poetry.
 
 The circumstance on which my story rests was suggested in casual conversation. It was commenced, partly as a source of amusement, and partly as an expedient for exercising any untried resources of mind. Other motives were mingled with these, as the work proceeded. 
 
